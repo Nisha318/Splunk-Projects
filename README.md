@@ -39,5 +39,5 @@ Here are some key ways Splunk can be utilized for security incident handling:
 <li> <b> Collaboration:</b> Splunk enables better collaboration among security analysts and stakeholders by providing a centralized platform to share and discuss incident-related data and findings.</li>
 </ul>
 
-#Splunk's capabilities make it a valuable tool for security incident handling, enabling quicker detection, efficient investigation, and effective response to security incidents. However, it's essential to properly configure and tune Splunk for security use cases and ensure that the right security measures are in place to protect the Splunk environment itself from potential threats.
+/*Splunk's capabilities make it a valuable tool for security incident handling, enabling quicker detection, efficient investigation, and effective response to security incidents. However, it's essential to properly configure and tune Splunk for security use cases and ensure that the right security measures are in place to protect the Splunk environment itself from potential threats.*/
 
