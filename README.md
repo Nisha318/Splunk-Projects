@@ -1,8 +1,7 @@
 # Splunk-Projects
-<figure> 
+ 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/splunk%20lab%20diagram.jpg"> 
-  <figcaption>Splunk Lab Diagram </figcaption>
-</figure>
+
 
 <ul>
   <li> <a href="#"> Deploy a Splunk Enterprise Server </a> </li>
