@@ -1,6 +1,6 @@
 # Splunk-Projects
  
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/splunk%20lab%20diagram.jpg"> 
+<img src="https://github.com/Nisha318/Splunk-Projects/blob/main/Files/Lab%20Diagram.PNG"> 
 
 
 <ul>
