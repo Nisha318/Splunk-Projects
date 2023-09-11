@@ -1,3 +1,3 @@
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/splunk%20-%20build%20dashboard%20with%20pivot.png">
+<img src="https://github.com/Nisha318/Splunk-Projects/blob/main/Create%20a%20Dashboard%20with%20Pivot/Pivot%201.png">
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/splunk%20-%20build%20dashboard%20with%20pivot%20dark%20mode.png">
+<img src="https://github.com/Nisha318/Splunk-Projects/blob/main/Create%20a%20Dashboard%20with%20Pivot/Pivot%201.png">
