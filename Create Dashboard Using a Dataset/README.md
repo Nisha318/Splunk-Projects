@@ -32,3 +32,31 @@ host=SplunkSrv01 backupduration=* domain=* | stats max(backupduration) by domain
 ```
 
 ![image](https://github.com/user-attachments/assets/9b87d572-8948-4fc9-9c28-213ac46c546d)
+
+
+
+
+## User Data and Game Sales with Server Health Annotations
+
+```bash
+index=webapp sourcetype=app_monitoring | eval annotation_label = message | eval annotation_color = case(message="INFO maintenance operation", "#75C5F0", message="CRITICAL security issue", "#FF4747", message="WARNING network issue", "#F3CC17") 
+
+```
+
+![image](https://github.com/user-attachments/assets/f55ede8d-8f4a-4fba-97a4-32e2e2b6de28)
+
+
+Dashboard for Game Sales and Web Server Errors
+
+![image](https://github.com/user-attachments/assets/2e253ea7-ebd5-4299-bbeb-f02c89627853)
+
+
+
+## IP Locations
+
+
+![image](https://github.com/user-attachments/assets/f33bb63a-8d1c-43a5-b38b-04f8aeb2cc44)
+
+
+
+
