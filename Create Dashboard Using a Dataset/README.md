@@ -11,6 +11,7 @@ host=SplunkSrv01 backupduration=* domain=* | stats max(backupduration) by domain
 
 ## Create a Dashboard Prototype
 
+### Cafe Sales - Highest Sales and Method of Order Placement 
 
 
 ```bash
