@@ -61,3 +61,34 @@ Dashboard for Game Sales and Web Server Errors
 
 ![events sales visualizations](https://github.com/user-attachments/assets/960174c9-d0e2-4b1b-a35f-09b02b9b1b83)
 
+
+
+
+
+![average bandwidth](https://github.com/user-attachments/assets/4e7a9594-9b0f-46c0-b1c5-8b678e95515b)
+
+
+
+
+![Weekly Info](https://github.com/user-attachments/assets/045a77b3-d4b5-4a3b-8c9e-863b01a6213f)
+
+
+Active Directory Event Logging
+
+![1](https://github.com/user-attachments/assets/c0524310-cc76-4b76-9c2c-57b68aa250f3)
+
+
+![2](https://github.com/user-attachments/assets/3dba249c-12c6-436e-8f5e-945e3e65dfad)
+
+
+![3](https://github.com/user-attachments/assets/86433db8-49c5-4175-b1e2-f43a2ea37c7d)
+
+![4](https://github.com/user-attachments/assets/32b1e231-a2a0-41f2-a2ad-e0e8c1ae01be)
+
+
+![5](https://github.com/user-attachments/assets/0ec596c9-6fdf-40db-bed9-2792e90f8082)
+
+
+
+
+
