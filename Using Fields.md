@@ -1,6 +1,6 @@
-## Using Fields
+# Using Fields
 
-SecOps wants a list of authentication failure events associated with admin roles over the last 60 minutes
+## SecOps wants a list of authentication failure events associated with admin roles over the last 60 minutes
 
 ```bash
 index=security sourcetype=linux_secure failed invalid user=admin*
@@ -9,7 +9,7 @@ index=security sourcetype=linux_secure failed invalid user=admin*
 ![image](https://github.com/user-attachments/assets/583a0f22-c788-4f18-966f-9623bb06b940)
 
 
-Events from online sales that encountered a server problem (status>399.) 
+## Events from online sales that encountered a server problem (status>399.) 
 
 ```bash
 index=web sourcetype=access_combined action=purchase status>399 
@@ -30,7 +30,7 @@ index=web sourcetype=access_combined action=purchase status>399
 ![image](https://github.com/user-attachments/assets/d4cbf170-b501-4ac9-8eac-e1038ff49a27)
 
 
-SecOps wants to see a count of event descriptions by port from all web server events over
+## SecOps wants to see a count of event descriptions by port from all web server events over
 the past 7 days.
 
 ```bash
