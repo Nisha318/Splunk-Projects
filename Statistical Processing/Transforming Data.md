@@ -44,12 +44,6 @@ index=security sourcetype=linux_secure vendor_action!="session opened"
 ### Sales and Marketing want to know the two most popular referrer domains our website users
 are coming from.
 
-```bash
-index=web sourcetype=access_combined
-```
-
-![image](https://github.com/user-attachments/assets/016ceb4f-dccf-4965-9317-13da9da71f98)
-
 
 ```bash
 index=web sourcetype=access_combined referer_domain!=http://www.buttercupgames.com
