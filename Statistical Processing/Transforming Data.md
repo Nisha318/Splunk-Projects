@@ -39,8 +39,7 @@ index=security sourcetype=linux_secure vendor_action!="session opened"
 ![image](https://github.com/user-attachments/assets/fd4265f8-643d-4cf9-8581-6e93b1466136)
 
 
-### Sales and Marketing want to know the two most popular referrer domains our website users
-are coming from.
+### Sales and Marketing want to know the two most popular referrer domains our website users are coming from.
 
 
 ```bash
@@ -103,10 +102,7 @@ index=security sourcetype=history_access
 ![image](https://github.com/user-attachments/assets/b7e40c02-0e8f-44b7-8838-4bc673408f32)
 
 
-### Security wants to identify the types of content employees are viewing while on the
-network. Specifically, they want to know the rare content types as these can potentially be malicious.
-Use the rare command to identify uncommon content types employees are accessing while on the
-internal network.
+### Security wants to identify the types of content employees are viewing while on the network. Specifically, they want to know the rare content types as these can potentially be malicious. 
 
 ```bash
 index=network sourcetype=cisco_wsa_squid 
@@ -115,6 +111,12 @@ index=network sourcetype=cisco_wsa_squid
 
 ![image](https://github.com/user-attachments/assets/a7b7178b-d8be-4230-87ee-6cd3f2b9ad37)
 
-### Sales wants to know the 5 best-selling products for North American vendors over
-the previous week.
+### Sales wants to know the 5 best-selling products for North American vendors over the previous week.
+
+```bash
+index=sales sourcetype=vendor_sales VendorID<4000 
+| chart count by VendorCountry
+```
+
+![image](https://github.com/user-attachments/assets/f4a3dc0d-c839-4536-a543-e066d64a4708)
 
