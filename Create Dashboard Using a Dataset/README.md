@@ -59,4 +59,5 @@ Dashboard for Game Sales and Web Server Errors
 
 
 
+![events sales visualizations](https://github.com/user-attachments/assets/960174c9-d0e2-4b1b-a35f-09b02b9b1b83)
 
