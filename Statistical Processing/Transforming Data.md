@@ -1,7 +1,6 @@
 ## Transforming Data
 
-### The Network team wants to add a dashboard panel that displays internet usage over the last
-24 hours.
+### The Network team wants to add a dashboard panel that displays internet usage over the last 24 hours.
 
 Multi-Series Visualization Using Timechart
 
