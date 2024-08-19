@@ -15,8 +15,7 @@ index=network sourcetype=cisco_wsa_squid
 ![image](https://github.com/user-attachments/assets/23a45951-c52d-4906-a23e-d6e958a2064a)
 
 
-### Security wants to add a dashboard panel that displays the top 10 IPs associated with
-"Accepted" and "Failed" events on the web server.
+### Security wants to add a dashboard panel that displays the top 10 IPs associated with "Accepted" and "Failed" events on the web server.
 
 
 ```bash
