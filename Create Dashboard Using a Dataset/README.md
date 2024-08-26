@@ -89,6 +89,9 @@ Active Directory Event Logging
 ![5](https://github.com/user-attachments/assets/0ec596c9-6fdf-40db-bed9-2792e90f8082)
 
 
+VPN Login and Logout Activity Over Time
+
+![image](https://github.com/user-attachments/assets/8fe4d1a0-13ed-44bb-a68a-4713e30fc723)
 
 
 
